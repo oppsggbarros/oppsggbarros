@@ -40,9 +40,7 @@
   <a href="https://www.twitch.tv/oppsggbarros">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="https://www.instagram.com/gabrielgravenabarros/">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/gabriel-gravena-barros-846215271/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -58,4 +56,8 @@
 <a href="https://senachub.ms.senac.br/fabricas/">
   <img class="img_hub" src="logoHubFabricas.svg" height="40">
 </a>
+<h2 align="left">About me</h2>
+<h3 align="left">I am Graduated in Systems Development Technician on Senac Hub Academy. Working on Digix, a company that develops digital solutions for the industry. Learnign now about the world of web development and programming. I am a passionate person, always looking for new challenges and learning opportunities.</h3>
+
+
 

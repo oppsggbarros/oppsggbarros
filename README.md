@@ -9,7 +9,7 @@
 ###
 
 <img class="gif" align="right" height="150" src="madeline-celeste.gif" />
-<input type="range" id="velocidade"><0.5>
+
 
 ###
 

@@ -8,7 +8,8 @@
 
 ###
 
-<img align="right" height="150" src="madeline-celeste.gif"  />
+<img class="gif" align="right" height="150" src="madeline-celeste.gif" />
+<input type="range" id="velocidade"><0.5>
 
 ###
 
@@ -52,7 +53,7 @@
 <br clear="both">
 
 ###
-<h2 align="left">Some Projects I make</h2>
+<h2 align="left">Some Projects that I make</h2>
 <h3 align="left">Hub Fábricas</h3>
 <a href="senachub.ms.senac.br/fabricas">
   <img class="img_hub" src="logoHubFabricas.svg" height="40">

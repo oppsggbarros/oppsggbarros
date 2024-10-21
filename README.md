@@ -55,7 +55,7 @@
 ###
 <h2 align="left">Some Projects that I make</h2>
 <h3 align="left">Hub Fábricas</h3>
-<a href="senachub.ms.senac.br/fabricas">
+<a href="https://senachub.ms.senac.br/fabricas/">
   <img class="img_hub" src="logoHubFabricas.svg" height="40">
 </a>
 
